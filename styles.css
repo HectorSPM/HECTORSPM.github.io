@@ -8,4 +8,13 @@ body{
     background-color: antiquewhite;
     border-style: solid;
     border-color: #034B93;
+    margin: 12px;
+    padding: 12px;
+    border-width: 12px;
+    border-left: 12px solid blue;
+    border-right: 12px solid blue;
+    border-radius: 12px;
+    height: 100px;
+    width: 100px;
+
 }
